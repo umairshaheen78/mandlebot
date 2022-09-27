@@ -16,5 +16,5 @@
 
 ## Future Project Goals                           
 - [x] Make Animated
-- [x] Add Buttons to make Interactive
-- [x] Zoom in and Out Feature
+- [] Add Buttons to make Interactive
+- [] Zoom in and Out Feature
