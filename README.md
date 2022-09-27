@@ -1,3 +1,7 @@
+[![umairshaheen78 - mandlebot](https://img.shields.io/static/v1?label=umairshaheen78&message=mandlebot&color=blue&logo=github)](https://github.com/umairshaheen78/mandlebot "Go to GitHub repo")
+[![stars - mandlebot](https://img.shields.io/github/stars/umairshaheen78/mandlebot?style=social)](https://github.com/umairshaheen78/mandlebot)
+[![forks - mandlebot](https://img.shields.io/github/forks/umairshaheen78/mandlebot?style=social)](https://github.com/umairshaheen78/mandlebot)
+
 # The Mandlebot
 > A program that I got from Daniel Shiffman, aka "The Coding Train" on YouTube.
 
