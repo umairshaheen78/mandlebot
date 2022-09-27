@@ -7,8 +7,11 @@ A program that I got from Daniel Shiffman, aka "The Coding Train" on YouTube.
   
 ## Info about the Code:
 Program used: Processing
+  
 Language: Java
+  
 Time: 1 week
+  
 Original Owner: Daniel Shiffman
  
 ##
