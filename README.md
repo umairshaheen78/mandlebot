@@ -7,8 +7,11 @@
   
 ## Info about the Code:
 > Program used: Processing
+  
 > Language: Java
+  
 > Time: 1 week
+  
 > Original Owner: Daniel Shiffman
  
 ##
