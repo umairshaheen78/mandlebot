@@ -15,6 +15,6 @@
 [---> Fork My Repository Here <--- ](https://github.com/umairshaheen78/mandlebot/fork)
 
 ## Future Project Goals                           
-- [] Make Animated
+- [x] Make Animated
 - [] Add Buttons to make Interactive
 - [] Zoom in and Out Feature
