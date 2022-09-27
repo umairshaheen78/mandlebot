@@ -1,4 +1,4 @@
-# Mandlebot
+# The Mandlebot
 A program that I got from Daniel Shiffman, aka "The Coding Train" on YouTube.
 
 
@@ -10,3 +10,5 @@ Program used: Processing
 Language: Java
 Time: 1 week
 Original Owner: Daniel Shiffman
+  
+[fork my repository](https://github.com/umairshaheen78/mandlebot/fork)
